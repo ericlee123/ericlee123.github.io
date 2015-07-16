@@ -1,2 +1,2 @@
 # ericlee123.github.io
-My corner of the internet
+Just another website
