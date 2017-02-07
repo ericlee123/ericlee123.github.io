@@ -7,7 +7,7 @@ gems:
 permalink:           pretty
 
 # Setup
-url:                 http://qwtel.com
+url:                 http://google.com
 
 # Set to '' in case of hosting on GitHub pages,
 # i.e. `http://<username>.github.io`
@@ -21,13 +21,10 @@ paginate_path:       '/page-:num/'
 
 # Markdown enabled, however don't use more than one paragraph (enforced by `>`)
 description:         >
-  I'm a CS major at UT Austin.
-  #A pretentious two-column [Jekyll](http://jekyllrb.com/) theme, stolen by [`@qwtel`{:style="background: rgba(255, 255, 255, 0.15)"}](https://twitter.com/qwtel)
-  #from [Hyde](http://hyde.getpoole.com).
-  #You could say it was.. [hydejacked](http://media3.giphy.com/media/makedRIckZBW8/giphy.gif).
+  I'm a CS major at UT Austin. I like to do projects and play [smash](https://en.wikipedia.org/wiki/Super_Smash_Bros._Melee).
 
 # The tags listed as entries in the sidebar
-sidebar_tags:        [github, hello]
+sidebar_tags:        []
 
 # Fallback image and color if not overwritten for tag or post
 image:               /public/img/succulent.jpg
@@ -43,15 +40,12 @@ author:
   name:              'Eric Lee'
 
   # This photo will be used in the about section
-  photo:             http://qwtel.com/public/img/flo.jpg
+  photo:             /public/img/weird-face-square.png
   photo2x:           http://qwtel.com/public/img/flo@2x.jpg
 
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
   about:             |
-    Hi, I'm Florian or [`@qwtel`](https://www.twitter.com/qwtel), which isn't an acronym,
-    I just [wanted a short username](http://qwtel.com/how-to-find-a-short-username) and that one happened to be available.
-
-    Read my thoughts on [#software](http://qwtel.com/tag/software) and [#cryptoeconomics](http://qwtel.com/tag/cryptoeconomics).
+    I'm Eric Lee, and I'm trying to blog.
 
   # Social media icons in sidebar # Comment/uncommet to show/hide # Icons appear in order, can be rearranged:
   social:
@@ -63,7 +57,8 @@ author:
     # vimeo:           _username_
     # vine:            _username_
     # spotify:         user/_number_
-    # soundcloud:      _username_
+    github:            ericlee123
+    soundcloud:        timeline62x
     # lastfm:          _username_
     # instagram:       _username_
     # flickr:          _string_@_string_
@@ -79,7 +74,6 @@ author:
     # pinterest:       _username_
     # foursquare:      _number_
     # yelp:            _string_
-    github:            ericlee123
     # stackoverflow:   _number_/_username_
     # npm:             _username_
     # hackernews:      _username_
@@ -92,7 +86,7 @@ author:
     # paypal:          _username_
 
 # Remove to disable Google Anaylics
-google_analytics_id: 'UA-84025722-2'
+#google_analytics_id: 'UA-84025722-2'
 
 # Setting a disqus subdomain will enable the comment section
 # disqus:            <username>
