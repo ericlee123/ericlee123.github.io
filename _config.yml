@@ -27,7 +27,7 @@ description:         >
 sidebar_tags:        []
 
 # Fallback image and color if not overwritten for tag or post
-image:               /public/img/succulent.jpg
+image:               /public/img/succulent-blurry.jpg
 color:               '#FF7B00'
 
 # Fonts
