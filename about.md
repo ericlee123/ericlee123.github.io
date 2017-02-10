@@ -9,4 +9,4 @@ title: About
 {% endcomment %}
 {% include about-short.html author=site.author %}
 
-chirp chirp
+The blog uses the Jekyll theme, [Hydejack](https://github.com/qwtel/hydejack).

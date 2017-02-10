@@ -43,7 +43,10 @@ days; it was exciting to a bunch of little GameCube controllers pop up all over 
 I would obsessively check the number of entries within the MySQL database and naturally conclude that
 I was simply the best programmer to ever do it. 
 
-[comment]: <> (Add screenshot of top new rising app and also of gc controllers on map)
+<div style="width:100%">
+  <img src="/public/img/ssbl/top-new-free.png" style="float:left;width:49%"/>
+  <img src="/public/img/ssbl/gc-on-map.png" style="float:right;width:49%"/>
+</div>
 
 Seeing the large influx of users and even larger influx of bug reports, I decided to overhaul
 everything. I got the help of my pair programming partner, [Ashwin](http://madavan.me/), to rewrite
@@ -58,10 +61,11 @@ were complete opposites. We saw a sleek, 2.0, VR ready, deep TensorFlow ready, f
 but our users saw the same unfit-to-survive caterpillar with a pair of paper-mache wings haphazardly
 glued onto its back.
 
-<p align="center">
-  <img style="center" src="/public/img/ssbl/majestic-butterfly.jpg" width="256" title="what we saw">
-  <img style="center" src="/public/img/ssbl/caterpillar-with-wings.png" width="256" title="what they saw">
-</p>
+
+<div style="width:100%;height:200px">
+  <img src="/public/img/ssbl/majestic-butterfly.jpg" style="float:left;width:52.56%;height:100%" title="what we saw"/>
+  <img src="/public/img/ssbl/caterpillar-with-wings.png" style="float:right;width:45%;height:100%" title="what they saw"/>
+</div>
 
 Essentially, users saw the same clunky app the I released the first time around. Given, the
 polished new version did have its own share of bugs. For instance, on this release, upon revamping
@@ -80,4 +84,4 @@ Messenger in top free apps, but somehow that didn't happen.
 In conclusion, I would say the most valuable thing I got from this experience is a taste of what
 it's like to create something and have people use it. Now I know what some of you might be
 thinking. _Wow Eric. That's pretty dumb. I could write some dumb app, put it on the Play Store,
-and get users._ Yeah I guess you could. I don't really have a rebuttal.
+and get users._ Yeah I guess you could. I don't really know what to say to that.
