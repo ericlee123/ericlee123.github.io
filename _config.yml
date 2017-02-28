@@ -25,7 +25,7 @@ description:         >
   I'm a CS major at UT Austin. I like to do projects and play [smash](https://en.wikipedia.org/wiki/Super_Smash_Bros._Melee).
 
 # The tags listed as entries in the sidebar
-sidebar_tags:        []
+sidebar_tags:        [projects, thoughts]
 
 # Fallback image and color if not overwritten for tag or post
 image:               /public/img/succulent-blurry.jpg

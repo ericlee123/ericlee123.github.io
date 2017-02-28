@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Super Smash Bros Locator Obituary
+title: 'Super Smash Bros Locator Obituary'
+tags: [projects]
 description: >
   The end of an era.
 ---
@@ -13,7 +14,7 @@ was that you could find people around you on a Google Maps layout, meet up, and 
 I logged onto my my developer console to see what the issue was and quickly set my eyes on
 some heartbreaking statistics.
 
-![sad-statistics](/public/img/ssbl/sad-statistics.png "feels bad") 
+![sad-statistics](/public/img/ssbl/sad-statistics.png "feels bad")
 
 I took this as a sign that I should euthanize my project before something uncouth happens like
 Nintendo taking legal action against me or something; I don't know. So I want to give my first
@@ -41,7 +42,7 @@ the jungle's assortment of creatures. All sorts of bugs, unexpected features, an
 exceptions were reported. Despite all this, I managed to get around 2000 users in 2
 days; it was exciting to a bunch of little GameCube controllers pop up all over Google Maps.
 I would obsessively check the number of entries within the MySQL database and naturally conclude that
-I was simply the best programmer to ever do it. 
+I was simply the best programmer to ever do it.
 
 <div style="width:100%">
   <img src="/public/img/ssbl/top-new-free.png" style="float:left;width:49%"/>
@@ -60,7 +61,6 @@ backend and an equally sleek frontend to match. Unfortunately, what we saw and w
 were complete opposites. We saw a sleek, 2.0, VR ready, deep TensorFlow ready, fresh butterfly,
 but our users saw the same unfit-to-survive caterpillar with a pair of paper-mache wings haphazardly
 glued onto its back.
-
 
 <div style="width:100%;height:200px">
   <img src="/public/img/ssbl/majestic-butterfly.jpg" style="float:left;width:52.56%;height:100%" title="what we saw"/>

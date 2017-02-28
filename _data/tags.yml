@@ -13,17 +13,17 @@
 
 # defaults
 
-hyde:
-  name: Hyde
-  image: /hydejack/public/img/hyde.jpg
-  color: '#949667'
+projects:
+  name: Projects
+  image:
+  color:
   description: >
-    Hyde is a brazen two-column Jekyll theme that pairs a prominent sidebar with uncomplicated content.
-    It’s based on Poole, the Jekyll butler.
+    Doing side projects is my favorite aspect of being in the field of computer science.
+    They completely follow your own direction, pace, and creativity.
 
-jekyll:
-  name: Jekyll
-  image: /hydejack/public/img/jekyll.jpg
-  color: '#949667'
+thoughts:
+  name: Thoughts
+  image:
+  color: '#6859cc'
   description: >
-    Jekyll is a static site generator, an open-source tool for creating simple yet powerful websites of all shapes and sizes.
+    Just things I think about.
