@@ -16,7 +16,7 @@ various goofs and gaffs, we witnessed the match scene.
 
 Just to provide a little context of the scene I will be talking about, in case
 any traces of the scene was removed from all corners of the internet, a couple
-people are stuck in a house due to a zombie apocalypse. They need water, but
+people are stuck in a house due to an apocalypse. They need water, but
 it's in a basement that can only be accessed from the outside. To decide who
 goes, Seth Rogen lights a match and hides it with a bunch of other matches, and
 whoever pulls the burnt match has to risk his life to get some water.
